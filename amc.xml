@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="pyLowEPG by HL -- version V1.0 -- Helmer Luzo" generator-info-url="pyLowEPG by HL">
 	<programme start="20250518040000 +0100" stop="20250518042500 +0100" channel="amc.dark">
 		<title lang="es">Cuentos para viernes por la noche T01 Ep 6: La última sesión 01</title>
 		<desc lang="es">Series • 2020 • Terror
@@ -11006,3 +11008,4 @@ Rogelia está casada con Máximo, un obrero de carácter bastante violento. Tras
 
 • AMC</desc>
 	</programme>
+</tv>
